@@ -25,6 +25,7 @@ I'm Muhammad from Uzbekistan.
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source...
 <br>
 <br>
+<hr>
 
 ### 🔥 &nbsp; My Stats :
 
