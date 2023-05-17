@@ -1,5 +1,10 @@
 ### Hi there👋
 I'm Muhammad from Uzbekistan.
 <h2>📢 Welcome to my profile</h2>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myusuf4" width="46%" height="240px">
+<hr>
+
+<h3>Social network:</h3>
+ <a href="https://www.linkedin.com/in/muhammad"> <img>src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+            
+
     
