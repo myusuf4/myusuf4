@@ -1,5 +1,5 @@
 ### Hi there👋
 I'm Muhammad from Uzbekistan.
 <h2>📢 Welcome to my profile</h2>
-[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=myusuf4)](https://github.com/mysusuf4/github-readme-stats)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=my" width="46%" height="240px">
     
