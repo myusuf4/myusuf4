@@ -24,5 +24,5 @@ I'm Muhammad from Uzbekistan.
 - 👯 I’m looking to collaborate on real projects, tech articles... 
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source...
 
-    <h2> My Github Profile Summary Card:</h2>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myusuf4">
+    <h2> Statistics</h2>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad">
