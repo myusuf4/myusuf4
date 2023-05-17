@@ -38,6 +38,7 @@ I'm Muhammad from Uzbekistan.
 <div>
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=myusuf4&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
    <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=myusuf4&show_icons=true&theme=gotham" width = "47%"/>
+    <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="52%" height="240px">
 </div>
 
 ---
