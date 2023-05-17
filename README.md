@@ -25,4 +25,4 @@ I'm Muhammad from Uzbekistan.
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source...
 
     <h2> Statistics</h2>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myusuf4">
