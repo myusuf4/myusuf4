@@ -16,6 +16,7 @@ I'm Muhammad from Uzbekistan.
     <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="120px" height="30px"></code>
     <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" height="30px"></code>
     
+    <br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🔭 I’m currently working on Github projects, blogs etc...
