@@ -24,7 +24,24 @@ I'm Muhammad from Uzbekistan.
 - 👯 I’m looking to collaborate on real projects, tech articles... 
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source...
 
-    <h2> Statistics</h2>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myusuf4">
-    <img src="https://github.r2v.ch/codewars?user=myusuf04&stroke=%23BB432C" width="52%" height="240px">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myusuf4" width="46%" height="240px">
+
+### 🔥 &nbsp; My Stats :
+
+<div>
+<img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myusuf4&theme=gotham" width = "63%"/>
+<img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusuf4&layout=compact&theme=gotham" width = "33%"/>
+</div>
+
+<br>
+<br>
+
+<div>
+   <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=myusuf4&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
+   <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=myusuf4&show_icons=true&theme=gotham" width = "47%"/>
+</div>
+
+---
+
+<div class = 'snake'>
+   <img alt="card" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width = "100%"/>
+</div>
