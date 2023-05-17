@@ -23,6 +23,4 @@ I'm Muhammad from Uzbekistan.
 - 👯 I’m looking to collaborate on real projects, tech articles... 
 - 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source... 
 
- <div align="center">  
- <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px' center>  
-</div>
+
