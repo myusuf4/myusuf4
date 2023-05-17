@@ -15,7 +15,6 @@ I'm Muhammad from Uzbekistan.
     <code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="120px" height="30px"></code>
     <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="120px" height="30px"></code>
     <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" height="30px"></code>
-    <a href = "https://www.codewars.com/users/Abduazimkhoja"><img src="https://www.codewars.com/users/Abduazimkhoja/badges/large" width = "400"/></a>
     
     
 <br><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
@@ -39,7 +38,7 @@ I'm Muhammad from Uzbekistan.
 <div>
    <img alt="card" src="http://github-readme-streak-stats.herokuapp.com?user=myusuf4&theme=gotham&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" width = "49%"/>
    <img align = "right" alt="card" src="https://github-readme-stats.vercel.app/api?username=myusuf4&show_icons=true&theme=gotham" width = "47%"/>
-    <img src="https://github.r2v.ch/codewars?user=JaloliddinQosimov&stroke=%23BB432C" width="52%" height="240px">
+    <img src="https://github.r2v.ch/codewars?user=myusuf04&stroke=%23BB432C" width="52%" height="240px">
 </div>
 
 ---
